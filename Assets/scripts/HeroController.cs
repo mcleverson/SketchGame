@@ -30,7 +30,7 @@ public class HeroController : MonoBehaviour
         if ( Input.GetKeyDown(KeyCode.Space) && IsOnGround )
         {
             HeroAnimator.SetTrigger("Jump_Trig");
-            HeroAnimator.SetBool("jumping", true);
+            HeroAnimator.SetBool("Jumping", true);
             HeroRB.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
             IsOnGround = false;
         }

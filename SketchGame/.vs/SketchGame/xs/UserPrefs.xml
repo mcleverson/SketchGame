@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{F2DFA3A4-9E6E-4F2B-0365-BDDAA428A338}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/HeroController.cs">
+    <Files>
+      <File FileName="Assets/scripts/ThirdPersonMovement.cs" Line="16" Column="17" />
+      <File FileName="Assets/scripts/HeroController.cs" Line="40" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SketchGame" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9397f12c-26c4-4f26-a0b5-20c9559d0f34" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/cleversongallego/Projects/Unity/Sketchgame/SketchGame/Assets/scripts/HeroController.cs" relfile="Assets/scripts/HeroController.cs" line="39" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FSP.MAST.Scripts PreferredExecutionTarget="9e8cdfeb-4261-4418-8669-2011edd8733b" />
+</Properties>
